@@ -1,9 +1,7 @@
 const request = require('request');
 const tokens = [
   
-    'MTIwNTQ1NjE4NjIwODQxOTg2MA.G6Zo4J.oV6J2mMV5IUgt6tch4A8Aoec5E8LQoK-8JmH_g',
-    'MTE4NTk4NDA2MzgyMDAyMTgzMA.G43zLW.Obz9kHQwsbiYMR1HpYDOXj8jWMQIS9YfYdd1BY',
-    'MTE4NjQxNTI0NTc2NjQzNDk0Nw.GchUnY.q6TzVzWt4Z8tkF3fMLt5E78WBq6ySDW3pud8JQ'
+    'MTIwNTQ1NjE4NjIwODQxOTg2MA.GZkZYY.GG5rj4ZdXelXAUWpM-Rj0vdVCL7Urw_ogMHxGM'
   
 ];
 
